@@ -46,8 +46,7 @@ It enables users to quickly identify trends, high-performing categories, and are
 - `Amazon Sales Dashboard.pbix` – Power BI dashboard file  
 - `Amazon Store Sales Data.csv` – Dataset used  
 - `Screenshots/` – Dashboard screenshots  
-- `WORKING DASHBOARD.mp4` – Screen recording of dashboard interaction  
-- `PowerBI Workshop Certificate.pdf` – Certificate of completion  
+- `WORKING DASHBOARD.mp4` – Screen recording of dashboard interaction   
 
 ---
 
