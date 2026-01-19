@@ -16,7 +16,6 @@ The dashboard provides a comprehensive view of Amazon sales performance across m
 - Regions and states
 
 It enables users to quickly identify trends, high-performing categories, and areas requiring attention.
-
 ---
 
 ##  Key Features
